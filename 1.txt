@@ -5,3 +5,4 @@ by now I'm preparing for the second part of the Git workshop, so I'm finally act
 Cheers Esther
 
 Now trying some online changes to try the pull command
+Oh. this is very nice. Now I also have the changes here ^^ in VS code :D
