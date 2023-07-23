@@ -1,1 +1,5 @@
 hello! is there someone?
+
+Hi Sojin,
+by now I'm preparing for the second part of the Git workshop, so I'm finally actually revisiting the first, as I intend to do much earlier. 
+Cheers Esther
